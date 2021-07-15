@@ -5,10 +5,29 @@ In the United States alone, we generate about 300 million tons of solid waste in
 GreenEarth is an interactive and collaborative website where people can find creative projects, posted by other members of the community, that utilize common household trash and repurpose them into useful household items or cool art projects.
 
 
-## Directions
+## Installation
 
-Download source and run `npm install` to install dependencies and `npm start` to start local server at http://localhost:3000. <br>
-<br>
+### Step 1. Clone the repository
+
+```
+git clone https://github.com/redis-developer/greenearth
+```
+
+### Step 2. Run the dependencies
+
+```
+npm install
+```
+
+### Step 3. Start the local server
+
+```
+npm start
+```
+
+Access http://localhost:3000
+
+
 To connect to a Redis Cloud Enterprise Database with RedisJSON enabled, edit the following code in `index.js`.
 ```
 const client = redis.createClient({
