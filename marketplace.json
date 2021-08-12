@@ -23,7 +23,7 @@
   "redis_features": [""],
   "redis_modules": ["RedisJSON"], 
   "app_image_urls": [], 
-  "youtube_url": "https://www.youtube.com/watch?v=4SEACl3E3vY", 
+  "youtube_url": "https://www.youtube.com/watch?v=iK2IeM9xI4g", 
   "special_tags": ["Hackathon"], 
   "verticals": ["Environment"], 
   "markdown": "https://raw.githubusercontent.com/redis-developer/greenearth/main/README.md"
