@@ -25,6 +25,6 @@
   "app_image_urls": [], 
   "youtube_url": "https://www.youtube.com/watch?v=iK2IeM9xI4g", 
   "special_tags": ["Hackathon"], 
-  "verticals": ["Environment"], 
+  "verticals": ["Others"], 
   "markdown": "https://raw.githubusercontent.com/redis-developer/greenearth/main/README.md"
 }
