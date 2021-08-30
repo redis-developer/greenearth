@@ -39,7 +39,7 @@ const client = redis.createClient({
 ## Images
 
 ### Homepage
-![image info](https://github.com/rajkram/greenearth/blob/main/Pictures/homepage.png)
+![image info](https://github.com/redis-developer/greenearth/blob/main/Pictures/homepage.png)
 <br>
 
 ### Post Search
