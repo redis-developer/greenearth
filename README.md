@@ -39,19 +39,19 @@ const client = redis.createClient({
 ## Images
 
 ### Homepage
-![image info](https://github.com/redis-developer/greenearth/blob/main/Pictures/homepage.png)
+![image info](https://raw.githubusercontent.com/redis-developer/greenearth/main/Pictures/homepage.png)
 <br>
 
 ### Post Search
-![image info](./Pictures/search.png)
+![image info](https://raw.githubusercontent.com/redis-developer/greenearth/main/Pictures/search.png)
 <br>
 
 ### Profile Page
-![image info](./Pictures/profile.png)
+![image info](https://raw.githubusercontent.com/redis-developer/greenearth/main/Pictures/profile.png)
 <br>
 
 ### Post Page
-![image info](./Pictures/post.png)
+![image info](https://raw.githubusercontent.com/redis-developer/greenearth/main/Pictures/post.png)
 
 ## Features
 
