@@ -1,6 +1,6 @@
 {
   "app_name": "GreenEarth", 
-  "description": "A place for users to collaborate on green earth projects powered by RedisJSON", 
+  "description": "A place for users to collaborate on green earth projects powered by Redis JSON", 
   "rank": 90, 
   "type": "Full App", 
   "contributed_by": "Community", 
@@ -20,8 +20,8 @@
     
   "language": ["JavaScript, NodeJS"], 
   "redis_commands": ["SADD","SIISMEMBER","HGET","HSET","HDEL","HMSET","HMGET","JSON.GET","JSON.SET"], 
-  "redis_features": [""],
-  "redis_modules": ["RedisJSON"], 
+  "redis_use_cases": [""],
+  "redis_features": ["JSON"], 
   "app_image_urls": [], 
   "youtube_url": "https://www.youtube.com/watch?v=iK2IeM9xI4g", 
   "special_tags": ["Hackathon"], 
