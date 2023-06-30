@@ -28,11 +28,11 @@ npm start
 Access http://localhost:3000
 
 
-To connect to a Redis Cloud Enterprise Database with RedisJSON enabled, edit the following code in `index.js`.
+To connect to a Redis Cloud Enterprise Database with Redis JSON enabled, edit the following code in `index.js`.
 ```
 const client = redis.createClient({
      port      : // database port,
-     host      : // database url,  
+     host      : // database url,
      password  : // database password
 });
 ```
